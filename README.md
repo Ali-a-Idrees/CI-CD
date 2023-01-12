@@ -5,9 +5,9 @@ Continuous delivery (CD) and Continuous integration (CI) are two processes used 
 The CI/CD processes are completed by teams through pipeline tools used to streamline and simplify the process. Examples of popular CI/CD tools include Buddy, Jenkins and  CircleCI. These tools are used to unify teams working in code and help to produce a fast and efficient workflow/pipeline. This, in turn reduces the time and expenses normally taken to push out code. These tools also aid in quarantining and segregating faults so that they can be resolved much quicker and more efficiently. All in all, these tools work to smoothen out the CI/CD process to allow teams to more quickly locate and resolve errors/bugs, allow teamwork to become more fluid and transparent and most importantly, allow for better quality code to be pushed through the pipeline much more efficiently and with a dramatic reduction in errors.
 
 ### REFERENCES
-https://docs.aws.amazon.com/codepipeline/latest/userguide/concepts-continuous-delivery-integration.html
-https://aws.amazon.com/devops/continuous-delivery/#:~:text=Continuous%20delivery%20automates%20the%20entire,is%20triggered%20by%20the%20developer.
-https://aws.amazon.com/devops/continuous-integration/
-https://www.browserstack.com/guide/top-ci-cd-toolshttps://katalon.com/resources-center/blog/ci-cd-tools
-https://www.atlassian.com/continuous-delivery/principles/pipeline
-https://katalon.com/resources-center/blog/ci-cd-tools
+- https://docs.aws.amazon.com/codepipeline/latest/userguide/concepts-continuous-delivery-integration.html
+- https://aws.amazon.com/devops/continuous-delivery/#:~:text=Continuous%20delivery%20automates%20the%20entire,is%20triggered%20by%20the%20developer.
+- https://aws.amazon.com/devops/continuous-integration/
+- https://www.browserstack.com/guide/top-ci-cd-toolshttps://katalon.com/resources-center/blog/ci-cd-tools
+- https://www.atlassian.com/continuous-delivery/principles/pipeline
+- https://katalon.com/resources-center/blog/ci-cd-tools
